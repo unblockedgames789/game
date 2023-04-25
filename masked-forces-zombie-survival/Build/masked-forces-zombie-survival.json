@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "masked-forces-zombie-survival.data.unityweb",
+"asmCodeUrl": "masked-forces-zombie-survival.asm.code.unityweb",
+"asmMemoryUrl": "masked-forces-zombie-survival.asm.memory.unityweb",
+"asmFrameworkUrl": "masked-forces-zombie-survival.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
